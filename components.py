@@ -12,3 +12,6 @@ def menu_navegacao():
     st.sidebar.page_link(page="pages/pergunta_4.py", label="4. Problema de Negócio")
     st.sidebar.page_link(page="pages/pergunta_5.py", label="5. Transformação de Dados")
     st.sidebar.page_link(page="pages/pergunta_6.py", label="6. Campanha em Salvador")
+
+    st.sidebar.divider()
+    st.sidebar.markdown("<small>Desenvolvido por: [Túlio Gois](https://www.linkedin.com/in/tuliosg/) </small>", unsafe_allow_html=True)
