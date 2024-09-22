@@ -19,7 +19,7 @@ e, em seguida, como você os removeria. Dê um exemplo prático usando SQL.
 
 st.markdown(
 """
-### Solução
+### Resposta
 Para essa pergunta, considerei uma tabela chamada `vendas_roupas_ficticias` com as seguintes colunas:
 - `id_venda`
 - `data_venda` 

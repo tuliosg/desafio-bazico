@@ -22,7 +22,7 @@ análise básica. Forneça exemplos de código.
 
 st.markdown(
 """
-### Solução
+### Resposta
 Para demonstrar melhor a solução para a pergunta, gerei um arquivo CSV chamado `vendas_roupas_ficticias.csv` que possui pouco mais de 500 linhas e as seguintes colunas:
 - `data da venda`
 - `valor da venda`
