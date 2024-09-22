@@ -17,7 +17,7 @@ E ai, pessoal da Bázico! Tudo tranquilo?
 Fiquei muito feliz por ter passado de fase no processo e chegado até o desafio de dados :) 
          
 Ao ver que a apresentação era por minha conta, pensei em trazer algo que fosse diferente.
-Então aqui eu vos apresento a minha
+Então aqui eu vos apresento a minha:
 
 ### Resposta ao Desafio de Dados ≠
          
