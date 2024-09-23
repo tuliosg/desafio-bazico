@@ -7,4 +7,14 @@ st.set_page_config(page_title="Campanha em Salvador",
 
 menu_navegacao()
 
-st.write("Pergunta 6")
+st.markdown(
+"""
+## 6. Campanha em Salvador
+> Quantas bázicas existem em Salvador? Me mostre seu raciocínio para estimar
+quantas bázicas existem na cidade que estamos fazendo campanha. Quais
+números você utilizou para estimar isso? Não existe certo ou errado, o que
+importa é como você faria essa estimativa.
+
+---
+"""
+)
