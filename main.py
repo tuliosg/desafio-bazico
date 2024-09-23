@@ -9,6 +9,7 @@ menu_navegacao()
 
 st.title("Desafio Analítico e Estratégico ≠")
 st.subheader("Desafio de Dados")
+st.markdown("> Desenvolvido por: **Túlio Gois**")
 st.divider()
 
 st.write("""
