@@ -27,7 +27,7 @@ Para essa pergunta, considerei uma tabela chamada `vendas_roupas_ficticias` com 
 - `produto_vendido` 
 - `quantidade_vendida` 
 
-Primeiramente, é identifiquei os registros de vendas duplicados. Nesse caso, um registro duplicado seria aquele que possui os mesmos valores em todas as colunas. Para esse passo, a query foi:
+Primeiramente, identifiquei os registros de vendas duplicados. Nesse caso, um registro duplicado seria aquele que possui os mesmos valores em todas as colunas. Para esse passo, a query foi:
 
 ```sql
 SELECT 
