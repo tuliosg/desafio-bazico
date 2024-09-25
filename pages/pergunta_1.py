@@ -46,7 +46,7 @@ ORDER BY
     contagem DESC;
 ```
 
-No fim desse passo, consegui identificar as linhas que ocorrem mais de uma vez na tabela. Para remover esses registros duplicados, usei a estratégia de criar uma tabela temporária com os registros únicos, mantendo aqueles com o menor `id_venda` e apagando os registros que não estão na tabela temporária. A query para esse passo foi:
+No fim desse passo, consegui identificar as linhas que ocorrem mais de uma vez na tabela. Para remover esses registros duplicados, usei a estratégia de criar uma tabela temporária com os registros únicos, mantendo aqueles com o menor `id_venda` (esse parâmetro foi apenas ilustrativo, sendo possível adotar outra estratégia a depender do caso) e apagando os registros que não estão na tabela temporária. A query para esse passo foi:
 
 ```sql
 CREATE TEMPORARY TABLE ids_unicos AS
