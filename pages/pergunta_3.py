@@ -33,7 +33,7 @@ Na análise que realizei sobre o café Arábica, utilizei um gráfico de barras 
 """
 )
 
-st.image("imgs\cafes_pais.png", width=650)
+st.image("https://github.com/tuliosg/desafio-bazico/blob/main/imgs/cafes_pais.png?raw=true", width=650)
 
 st.markdown(
 """
@@ -43,7 +43,7 @@ st.markdown(
 Outro exemplo interessante foi o mapa coroplético que construí, também sobre o café Arábica. Nele eu exibi as pontuações médias dos cafés por país. O gráfico foi construído com a biblioteca plotly:
 """)
 
-st.image("imgs\plot_cafes_pais.png", width=600)
+st.image("https://github.com/tuliosg/desafio-bazico/blob/main/imgs/plot_cafes_pais.png?raw=true", width=600)
 
 st.markdown(
 """
@@ -54,7 +54,7 @@ Em uma análise de dados do Spotify, que envolviam as músicas mais ouvidas de 2
 """
 )
 
-st.image("imgs\scatter_spotify.png", width=500)
+st.image("https://github.com/tuliosg/desafio-bazico/blob/main/imgs/scatter_spotify.png?raw=true", width=500)
 
 st.markdown(
 """
